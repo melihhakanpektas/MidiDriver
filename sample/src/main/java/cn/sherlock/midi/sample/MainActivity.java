@@ -1,5 +1,7 @@
 package cn.sherlock.midi.sample;
 
+import static java.sql.DriverManager.println;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.view.MotionEventCompat;
@@ -18,6 +20,7 @@ import jp.kshoji.javax.sound.midi.ShortMessage;
 
 public class MainActivity extends Activity {
 
+<<<<<<< Updated upstream
 	private SoftSynthesizer synth;
 	private Receiver recv;
 	private boolean isPianoOn = false;
@@ -92,6 +95,74 @@ public class MainActivity extends Activity {
 				return true;
 			}
 		});
+=======
+    private SoftSynthesizer synth;
+    private Receiver recv;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        try {
+            SF2Soundbank sf = new SF2Soundbank(getAssets().open("SmallTimGM6mb.sf2"));
+            synth = new SoftSynthesizer();
+            synth.open();
+            synth.loadAllInstruments(sf);
+            for(int i = 0; i < synth.getChannels().length; i++) {
+                synth.getChannels()[i].programChange(i);
+            }
+            recv = synth.getReceiver();
+
+        } catch (IOException | MidiUnavailableException e) {
+            e.printStackTrace();
+        }
+
+        this.findViewById(R.id.piano).setOnTouchListener((v, event) -> {
+            int action = event.getAction();
+            if (action == MotionEvent.ACTION_DOWN) {
+                try {
+                    ShortMessage msg = new ShortMessage();
+                    msg.setMessage(ShortMessage.NOTE_ON, 0, 60, 127);
+                    recv.send(msg, -1);
+                    v.performClick(); // Add this line
+                } catch (InvalidMidiDataException e) {
+                    e.printStackTrace();
+                }
+            } else if (action == MotionEvent.ACTION_UP || action == MotionEvent.ACTION_CANCEL) {
+                try {
+                    ShortMessage msg = new ShortMessage();
+                    msg.setMessage(ShortMessage.NOTE_OFF, 0, 60, 127);
+                    recv.send(msg, -1);
+                } catch (InvalidMidiDataException e) {
+                    e.printStackTrace();
+                }
+            }
+            return true;
+        });
+
+this.findViewById(R.id.woodblock).setOnTouchListener((v, event) -> {
+    int action = event.getAction();
+    if (action == MotionEvent.ACTION_DOWN) {
+        try {
+            ShortMessage msg = new ShortMessage();
+            msg.setMessage(ShortMessage.NOTE_ON, 1, 60, 127);
+            recv.send(msg, -1);
+            v.performClick(); // Add this line
+        } catch (InvalidMidiDataException e) {
+            e.printStackTrace();
+        }
+    } else if (action == MotionEvent.ACTION_UP || action == MotionEvent.ACTION_CANCEL) {
+        try {
+            ShortMessage msg = new ShortMessage();
+            msg.setMessage(ShortMessage.NOTE_OFF, 1, 60, 127);
+            recv.send(msg, -1);
+        } catch (InvalidMidiDataException e) {
+            e.printStackTrace();
+        }
+    }
+    return true;
+});
+>>>>>>> Stashed changes
 	}
 
 

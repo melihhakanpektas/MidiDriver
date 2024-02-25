@@ -99,7 +99,8 @@ public class SysexMessage extends MidiMessage {
 		return result;
 	}
 
-	@Override
+	@NonNull
+    @Override
 	public Object clone() {
         return new SysexMessage(getData());
 	}

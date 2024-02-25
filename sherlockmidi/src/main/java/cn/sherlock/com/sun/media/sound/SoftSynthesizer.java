@@ -930,7 +930,7 @@ public class SoftSynthesizer implements AudioSynthesizer,
                         * (int)(getFormat().getFrameRate() * (latency/1000000f));
                     // can throw LineUnavailableException,
                     // IllegalArgumentException, SecurityException
-                    line.open(getFormat(), bufferSize);
+                    line.open(getFormat(), 4);
 
                     // Remember that we opened that line
                     // so we can close again in SoftSynthesizer.close()
@@ -939,7 +939,7 @@ public class SoftSynthesizer implements AudioSynthesizer,
                 if (!line.isActive())
                     line.start();
 
-                int controlbuffersize = 512;
+                int controlbuffersize = 4;
                 try {
                     controlbuffersize = ais.available();
                 } catch (IOException e) {
