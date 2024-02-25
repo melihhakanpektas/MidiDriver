@@ -2,9 +2,10 @@ package cn.sherlock.midi.sample;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.v4.view.MotionEventCompat;
 import android.view.MotionEvent;
 import android.view.View;
+
+import androidx.core.view.MotionEventCompat;
 
 import java.io.IOException;
 
@@ -125,4 +126,3 @@ public class MainActivity extends Activity {
 		}
 	}
 }
-

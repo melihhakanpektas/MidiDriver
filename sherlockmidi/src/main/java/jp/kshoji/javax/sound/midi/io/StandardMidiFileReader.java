@@ -1,7 +1,8 @@
 package jp.kshoji.javax.sound.midi.io;
 
 import android.content.res.AssetManager.AssetInputStream;
-import android.support.annotation.NonNull;
+
+import androidx.annotation.NonNull;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
