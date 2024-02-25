@@ -13,138 +13,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b58c4a9-334b-4f32-8bfd-c934e78d844c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_3_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_jvm_1_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_6_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_6_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_12_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_12_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_6_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_6_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_6_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_6_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_6_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_resourceinspection_resourceinspection_annotation_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_10_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_8_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_8_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_8_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_8_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/MidiDriver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_11_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_10_0_aar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sample/MidiDriver.sample.unitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sherlockmidi/MidiDriver.sherlockmidi.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sample/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample/src/main/java/cn/sherlock/midi/sample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/cn/sherlock/midi/sample/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/ControllerEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/ControllerEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/InvalidMidiDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/InvalidMidiDataException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MetaEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MetaEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/cn/sherlock/com/sun/media/sound/SF2Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/cn/sherlock/com/sun/media/sound/SF2Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/cn/sherlock/com/sun/media/sound/SimpleInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/cn/sherlock/com/sun/media/sound/SimpleInstrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/cn/sherlock/com/sun/media/sound/SoftSynthesizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/cn/sherlock/com/sun/media/sound/SoftSynthesizer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MetaMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MetaMessage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDeviceReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDeviceReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDeviceTransmitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDeviceTransmitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDeviceReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiDeviceTransmitter.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiEvent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiFileFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiFileFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiUnavailableException.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/MidiUnavailableException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Receiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Sequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Sequencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Sequencer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/ShortMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/ShortMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Soundbank.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Soundbank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/SoundbankResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/SoundbankResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Synthesizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Synthesizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/SysexMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/SysexMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Track.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Transmitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/Transmitter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/impl/MidiChannelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/impl/MidiChannelImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/impl/SequencerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/impl/SequencerImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/io/StandardMidiFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/io/StandardMidiFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/io/StandardMidiFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/io/StandardMidiFileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/MidiDeviceProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/MidiDeviceProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/MidiFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/MidiFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/MidiFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/MidiFileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/SoundbankReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/sherlockmidi/src/main/java/jp/kshoji/javax/sound/midi/spi/SoundbankReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2873,6 +2768,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MidiDriver [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -2882,6 +2799,19 @@
       <method v="2">
         <option name="Make" enabled="false" />
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MidiDriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MidiDriver" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
@@ -2908,7 +2838,13 @@
     <list>
       <item itemvalue="Android App.MidiDriver.sample" />
       <item itemvalue="Android App.sample" />
+      <item itemvalue="Gradle.MidiDriver [clean]" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MidiDriver [clean]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -2959,6 +2895,17 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
